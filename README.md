@@ -29,15 +29,15 @@ The goal is to shorten the distance between *"I've heard of this project"* and *
 
 ## Sections
 
-| Section                        | What it does                                                 |
-| ------------------------------ | ------------------------------------------------------------ |
-| **Summary**                    | Aggregate metrics, distribution by category and language     |
-| **Index**                      | Searchable, filterable card grid of every repository         |
-| **Repository cards**           | Expandable deep-dive per repo with diagram, features, alternatives, commands |
-| **Comparison matrix**          | Scannable side-by-side of category, language, license, stars, forks, activity |
-| **Learning paths**             | Curated implementations and tutorial channels per repository |
-| **By category** / **By stack** | Two orthogonal groupings — purpose vs. technology            |
-| **Add or update**              | A form that auto-fills from the GitHub API to streamline contributions |
+| Section | What it does |
+| --- | --- |
+| **Summary** | Aggregate metrics, distribution by category and language |
+| **Index** | Searchable, filterable card grid of every repository |
+| **Repository cards** | Expandable deep-dive per repo with diagram, features, alternatives, commands |
+| **Comparison matrix** | Scannable side-by-side of category, language, license, stars, forks, activity |
+| **Learning paths** | Curated implementations and tutorial channels per repository |
+| **By category** / **By stack** | Two orthogonal groupings — purpose vs. technology |
+| **Add or update** | A form that auto-fills from the GitHub API to streamline contributions |
 
 ## Running locally
 
